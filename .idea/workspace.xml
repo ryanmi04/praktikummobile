@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab0865fc-c7d2-469c-9f47-ed7079c95080" name="Changes" comment="menambahkan module 3">
+    <list default="true" id="ab0865fc-c7d2-469c-9f47-ed7079c95080" name="Changes" comment="menambahkan module 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Praktikum Mobile/Module 3",
+    "last_opened_file_path": "D:/Praktikum Mobile",
     "settings.editor.selected.configurable": "AndroidSdkUpdater"
   }
 }]]></component>
@@ -101,12 +101,29 @@
       <option name="project" value="LOCAL" />
       <updated>1718245355659</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="menambahkan module 4">
+      <option name="closed" value="true" />
+      <created>1719494768359</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1719494768359</updated>
+    </task>
+    <task id="LOCAL-00008" summary="menambahkan module 4">
+      <option name="closed" value="true" />
+      <created>1719495008930</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1719495008930</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
     <MESSAGE value="menambahkan module 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="menambahkan module 3" />
+    <MESSAGE value="menambahkan module 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="menambahkan module 4" />
   </component>
 </project>
